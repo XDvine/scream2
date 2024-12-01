@@ -47,7 +47,7 @@
     <script>
         document.body.addEventListener('click', function () {
             // Показать скример
-            const screamer = document.getElementById('screamer');
+            const screamer = document.getElementById('https://png.klev.club/uploads/posts/2024-03/png-klev-club-p-skrimer-png-24.png');
             const screamSound = document.getElementById('screamSound');
 
             screamer.style.display = 'flex';
